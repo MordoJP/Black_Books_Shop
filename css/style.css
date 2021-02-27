@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh; }
+
+.shelf {
+  height: 90vh; }
+  .shelf div {
+    height: inherit; }
+  .shelf .list {
+    overflow-y: scroll; }
+
+/*# sourceMappingURL=style.css.map */
